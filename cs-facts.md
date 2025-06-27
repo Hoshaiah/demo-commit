@@ -29,3 +29,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-06-26:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
 - **2025-06-27:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
 - **2025-06-27:** The halting problem is undecidable: no general algorithm can tell if any program will stop.
+- **2025-06-27:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
