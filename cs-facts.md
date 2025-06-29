@@ -39,3 +39,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-06-28:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
 - **2025-06-29:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
 - **2025-06-29:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
+- **2025-06-29:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
