@@ -53,3 +53,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-07-02:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
 - **2025-07-02:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
 - **2025-07-02:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
+- **2025-07-02:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
