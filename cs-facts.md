@@ -66,3 +66,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-07-05:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
 - **2025-07-05:** The halting problem is undecidable: no general algorithm can tell if any program will stop.
 - **2025-07-05:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
+- **2025-07-05:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
