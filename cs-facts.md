@@ -77,3 +77,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-07-07:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
 - **2025-07-07:** The halting problem is undecidable: no general algorithm can tell if any program will stop.
 - **2025-07-07:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
+- **2025-07-08:** The halting problem is undecidable: no general algorithm can tell if any program will stop.
