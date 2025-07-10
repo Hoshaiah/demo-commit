@@ -88,3 +88,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-07-09:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
 - **2025-07-10:** ASCII uses 7 bits (128 values); UTF-8 extends this to all of Unicode while staying ASCII-compatible.
 - **2025-07-10:** Binary search runs in O(log n) time but requires the input to be sorted first.
+- **2025-07-10:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
