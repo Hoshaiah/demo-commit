@@ -107,3 +107,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-07-14:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
 - **2025-07-14:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
 - **2025-07-14:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
+- **2025-07-14:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
