@@ -113,3 +113,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-07-14:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
 - **2025-07-15:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
 - **2025-07-16:** The halting problem is undecidable: no general algorithm can tell if any program will stop.
+- **2025-07-16:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
