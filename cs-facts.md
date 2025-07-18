@@ -124,3 +124,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-07-18:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
 - **2025-07-18:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
 - **2025-07-18:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
+- **2025-07-18:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
