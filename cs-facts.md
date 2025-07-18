@@ -125,3 +125,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-07-18:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
 - **2025-07-18:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
 - **2025-07-18:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
+- **2025-07-18:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
