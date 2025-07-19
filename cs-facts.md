@@ -128,3 +128,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-07-18:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
 - **2025-07-18:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
 - **2025-07-18:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
+- **2025-07-19:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
