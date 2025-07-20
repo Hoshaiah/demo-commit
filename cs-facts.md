@@ -132,3 +132,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-07-19:** Binary search runs in O(log n) time but requires the input to be sorted first.
 - **2025-07-19:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
 - **2025-07-20:** ASCII uses 7 bits (128 values); UTF-8 extends this to all of Unicode while staying ASCII-compatible.
+- **2025-07-20:** The halting problem is undecidable: no general algorithm can tell if any program will stop.
