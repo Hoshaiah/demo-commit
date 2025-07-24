@@ -146,3 +146,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-07-23:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
 - **2025-07-24:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
 - **2025-07-24:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
+- **2025-07-24:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
