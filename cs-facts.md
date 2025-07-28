@@ -165,3 +165,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-07-27:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
 - **2025-07-27:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
 - **2025-07-27:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
+- **2025-07-28:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
