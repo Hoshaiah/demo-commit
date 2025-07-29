@@ -172,3 +172,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-07-28:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
 - **2025-07-28:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
 - **2025-07-29:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
+- **2025-07-29:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
