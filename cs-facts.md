@@ -185,3 +185,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-07-31:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
 - **2025-07-31:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
 - **2025-08-01:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
+- **2025-08-01:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
