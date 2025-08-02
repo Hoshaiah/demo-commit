@@ -187,3 +187,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-08-01:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
 - **2025-08-01:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
 - **2025-08-01:** Binary search runs in O(log n) time but requires the input to be sorted first.
+- **2025-08-02:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
