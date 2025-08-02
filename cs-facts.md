@@ -192,3 +192,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-08-02:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
 - **2025-08-02:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
 - **2025-08-02:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
+- **2025-08-02:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
