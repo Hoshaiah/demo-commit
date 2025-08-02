@@ -190,3 +190,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-08-02:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
 - **2025-08-02:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
 - **2025-08-02:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
+- **2025-08-02:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
