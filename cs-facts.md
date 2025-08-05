@@ -202,3 +202,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-08-04:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
 - **2025-08-04:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
 - **2025-08-04:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
+- **2025-08-05:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
