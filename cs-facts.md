@@ -220,3 +220,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-08-09:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
 - **2025-08-10:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
 - **2025-08-10:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
+- **2025-08-10:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
