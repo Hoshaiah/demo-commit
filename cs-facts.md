@@ -256,3 +256,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-08-19:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
 - **2025-08-19:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
 - **2025-08-19:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
+- **2025-08-19:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
