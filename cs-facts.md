@@ -260,3 +260,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-08-20:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
 - **2025-08-20:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
 - **2025-08-20:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
+- **2025-08-20:** The halting problem is undecidable: no general algorithm can tell if any program will stop.
