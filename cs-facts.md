@@ -266,3 +266,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-08-21:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
 - **2025-08-21:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
 - **2025-08-21:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
+- **2025-08-21:** The halting problem is undecidable: no general algorithm can tell if any program will stop.
