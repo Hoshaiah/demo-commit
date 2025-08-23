@@ -273,3 +273,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-08-22:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
 - **2025-08-23:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
 - **2025-08-23:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
+- **2025-08-23:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
