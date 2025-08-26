@@ -279,3 +279,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-08-24:** Binary search runs in O(log n) time but requires the input to be sorted first.
 - **2025-08-24:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
 - **2025-08-25:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
+- **2025-08-26:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
