@@ -284,3 +284,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-08-26:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
 - **2025-08-26:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
 - **2025-08-27:** Binary search runs in O(log n) time but requires the input to be sorted first.
+- **2025-08-28:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
