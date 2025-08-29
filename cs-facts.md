@@ -286,3 +286,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-08-27:** Binary search runs in O(log n) time but requires the input to be sorted first.
 - **2025-08-28:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
 - **2025-08-29:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
+- **2025-08-29:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
