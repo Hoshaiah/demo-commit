@@ -299,3 +299,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-09-01:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
 - **2025-09-01:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
 - **2025-09-01:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
+- **2025-09-01:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
