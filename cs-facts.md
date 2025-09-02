@@ -304,3 +304,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-09-02:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
 - **2025-09-02:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
 - **2025-09-02:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
+- **2025-09-02:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
