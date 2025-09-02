@@ -301,3 +301,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-09-01:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
 - **2025-09-01:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
 - **2025-09-01:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
+- **2025-09-02:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
