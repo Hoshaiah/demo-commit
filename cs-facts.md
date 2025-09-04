@@ -312,3 +312,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-09-03:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
 - **2025-09-04:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
 - **2025-09-04:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
+- **2025-09-04:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
