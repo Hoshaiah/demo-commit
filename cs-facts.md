@@ -324,3 +324,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-09-06:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
 - **2025-09-06:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
 - **2025-09-06:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
+- **2025-09-06:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
