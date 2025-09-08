@@ -329,3 +329,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-09-07:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
 - **2025-09-07:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
 - **2025-09-07:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
+- **2025-09-08:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
