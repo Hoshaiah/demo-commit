@@ -343,3 +343,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-09-10:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
 - **2025-09-10:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
 - **2025-09-10:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
+- **2025-09-10:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
