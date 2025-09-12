@@ -346,3 +346,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-09-10:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
 - **2025-09-11:** ASCII uses 7 bits (128 values); UTF-8 extends this to all of Unicode while staying ASCII-compatible.
 - **2025-09-11:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
+- **2025-09-12:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
