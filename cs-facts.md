@@ -360,3 +360,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-09-13:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
 - **2025-09-13:** Binary search runs in O(log n) time but requires the input to be sorted first.
 - **2025-09-14:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
+- **2025-09-14:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
