@@ -362,3 +362,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-09-14:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
 - **2025-09-14:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
 - **2025-09-14:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
+- **2025-09-14:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
