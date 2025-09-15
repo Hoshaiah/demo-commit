@@ -365,3 +365,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-09-14:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
 - **2025-09-15:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
 - **2025-09-15:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
+- **2025-09-15:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
