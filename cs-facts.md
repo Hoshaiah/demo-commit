@@ -368,3 +368,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-09-15:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
 - **2025-09-15:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
 - **2025-09-16:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
+- **2025-09-16:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
