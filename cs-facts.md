@@ -387,3 +387,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-09-20:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
 - **2025-09-20:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
 - **2025-09-21:** Binary search runs in O(log n) time but requires the input to be sorted first.
+- **2025-09-21:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
