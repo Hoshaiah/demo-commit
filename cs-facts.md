@@ -386,3 +386,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-09-19:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
 - **2025-09-20:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
 - **2025-09-20:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
+- **2025-09-21:** Binary search runs in O(log n) time but requires the input to be sorted first.
