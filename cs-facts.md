@@ -405,3 +405,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-09-26:** ASCII uses 7 bits (128 values); UTF-8 extends this to all of Unicode while staying ASCII-compatible.
 - **2025-09-27:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
 - **2025-09-27:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
+- **2025-09-28:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
