@@ -413,3 +413,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-09-30:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
 - **2025-09-30:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
 - **2025-09-30:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
+- **2025-09-30:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
