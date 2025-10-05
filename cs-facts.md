@@ -430,3 +430,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-10-04:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
 - **2025-10-05:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
 - **2025-10-05:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
+- **2025-10-05:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
