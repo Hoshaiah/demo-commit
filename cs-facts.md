@@ -443,3 +443,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-10-07:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
 - **2025-10-07:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
 - **2025-10-07:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
+- **2025-10-07:** Binary search runs in O(log n) time but requires the input to be sorted first.
