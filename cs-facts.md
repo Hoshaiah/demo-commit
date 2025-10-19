@@ -487,3 +487,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-10-18:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
 - **2025-10-19:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
 - **2025-10-19:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
+- **2025-10-19:** ASCII uses 7 bits (128 values); UTF-8 extends this to all of Unicode while staying ASCII-compatible.
