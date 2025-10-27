@@ -509,3 +509,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-10-25:** Binary search runs in O(log n) time but requires the input to be sorted first.
 - **2025-10-25:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
 - **2025-10-26:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
+- **2025-10-27:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
