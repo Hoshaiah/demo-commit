@@ -523,3 +523,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-10-30:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
 - **2025-10-30:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
 - **2025-10-30:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
+- **2025-10-30:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
