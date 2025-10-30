@@ -521,3 +521,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-10-29:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
 - **2025-10-29:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
 - **2025-10-30:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
+- **2025-10-30:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
