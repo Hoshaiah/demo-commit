@@ -534,3 +534,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-11-01:** The halting problem is undecidable: no general algorithm can tell if any program will stop.
 - **2025-11-01:** ASCII uses 7 bits (128 values); UTF-8 extends this to all of Unicode while staying ASCII-compatible.
 - **2025-11-01:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
+- **2025-11-01:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
