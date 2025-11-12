@@ -567,3 +567,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-11-10:** The halting problem is undecidable: no general algorithm can tell if any program will stop.
 - **2025-11-11:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
 - **2025-11-12:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
+- **2025-11-12:** ASCII uses 7 bits (128 values); UTF-8 extends this to all of Unicode while staying ASCII-compatible.
