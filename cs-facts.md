@@ -586,3 +586,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-11-17:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
 - **2025-11-17:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
 - **2025-11-17:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
+- **2025-11-18:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
