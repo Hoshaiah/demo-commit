@@ -626,3 +626,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-11-24:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
 - **2025-11-24:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
 - **2025-11-24:** ASCII uses 7 bits (128 values); UTF-8 extends this to all of Unicode while staying ASCII-compatible.
+- **2025-11-24:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
