@@ -636,3 +636,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-11-26:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
 - **2025-11-26:** The halting problem is undecidable: no general algorithm can tell if any program will stop.
 - **2025-11-26:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
+- **2025-11-27:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
