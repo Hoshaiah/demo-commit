@@ -641,3 +641,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-11-28:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
 - **2025-11-28:** ASCII uses 7 bits (128 values); UTF-8 extends this to all of Unicode while staying ASCII-compatible.
 - **2025-11-28:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
+- **2025-11-28:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
