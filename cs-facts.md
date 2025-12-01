@@ -650,3 +650,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-12-01:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
 - **2025-12-01:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
 - **2025-12-01:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
+- **2025-12-01:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
