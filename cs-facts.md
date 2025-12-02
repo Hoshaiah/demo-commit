@@ -653,3 +653,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-12-01:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
 - **2025-12-01:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
 - **2025-12-02:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
+- **2025-12-02:** Binary search runs in O(log n) time but requires the input to be sorted first.
