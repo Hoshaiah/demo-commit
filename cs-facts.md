@@ -698,3 +698,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-12-12:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
 - **2025-12-13:** The halting problem is undecidable: no general algorithm can tell if any program will stop.
 - **2025-12-13:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
+- **2025-12-13:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
