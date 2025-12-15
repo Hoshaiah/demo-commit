@@ -702,3 +702,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-12-13:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
 - **2025-12-14:** ASCII uses 7 bits (128 values); UTF-8 extends this to all of Unicode while staying ASCII-compatible.
 - **2025-12-15:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
+- **2025-12-15:** ASCII uses 7 bits (128 values); UTF-8 extends this to all of Unicode while staying ASCII-compatible.
