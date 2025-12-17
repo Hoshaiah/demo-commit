@@ -709,3 +709,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-12-16:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
 - **2025-12-17:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
 - **2025-12-17:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
+- **2025-12-17:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
