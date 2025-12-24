@@ -732,3 +732,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-12-23:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
 - **2025-12-23:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
 - **2025-12-23:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
+- **2025-12-24:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
