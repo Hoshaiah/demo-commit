@@ -734,3 +734,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-12-23:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
 - **2025-12-24:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
 - **2025-12-24:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
+- **2025-12-24:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
