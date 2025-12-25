@@ -739,3 +739,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-12-25:** Binary search runs in O(log n) time but requires the input to be sorted first.
 - **2025-12-25:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
 - **2025-12-25:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
+- **2025-12-25:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
