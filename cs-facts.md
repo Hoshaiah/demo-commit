@@ -751,3 +751,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-12-27:** The halting problem is undecidable: no general algorithm can tell if any program will stop.
 - **2025-12-27:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
 - **2025-12-27:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
+- **2025-12-27:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
