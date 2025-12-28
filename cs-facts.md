@@ -753,3 +753,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-12-27:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
 - **2025-12-27:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
 - **2025-12-28:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
+- **2025-12-28:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
