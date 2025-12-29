@@ -757,3 +757,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-12-28:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
 - **2025-12-29:** Binary search runs in O(log n) time but requires the input to be sorted first.
 - **2025-12-29:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
+- **2025-12-29:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
