@@ -761,3 +761,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-12-29:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
 - **2025-12-29:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
 - **2025-12-29:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
+- **2025-12-30:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
