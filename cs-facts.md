@@ -767,3 +767,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2025-12-30:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
 - **2025-12-30:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
 - **2025-12-30:** Binary search runs in O(log n) time but requires the input to be sorted first.
+- **2025-12-31:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
