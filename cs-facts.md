@@ -776,3 +776,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-01-01:** ASCII uses 7 bits (128 values); UTF-8 extends this to all of Unicode while staying ASCII-compatible.
 - **2026-01-01:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
 - **2026-01-01:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
+- **2026-01-02:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
