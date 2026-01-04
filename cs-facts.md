@@ -789,3 +789,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-01-04:** ASCII uses 7 bits (128 values); UTF-8 extends this to all of Unicode while staying ASCII-compatible.
 - **2026-01-04:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
 - **2026-01-04:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
+- **2026-01-04:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
