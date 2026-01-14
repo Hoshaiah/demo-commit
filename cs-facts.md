@@ -825,3 +825,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-01-13:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
 - **2026-01-13:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
 - **2026-01-13:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
+- **2026-01-14:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
