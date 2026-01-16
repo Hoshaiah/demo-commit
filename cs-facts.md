@@ -839,3 +839,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-01-15:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
 - **2026-01-15:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
 - **2026-01-15:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
+- **2026-01-16:** Binary search runs in O(log n) time but requires the input to be sorted first.
