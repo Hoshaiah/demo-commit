@@ -870,3 +870,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-01-23:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
 - **2026-01-23:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
 - **2026-01-23:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
+- **2026-01-24:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
