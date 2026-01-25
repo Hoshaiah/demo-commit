@@ -879,3 +879,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-01-24:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
 - **2026-01-25:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
 - **2026-01-25:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
+- **2026-01-25:** The halting problem is undecidable: no general algorithm can tell if any program will stop.
