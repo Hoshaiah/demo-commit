@@ -904,3 +904,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-01-30:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
 - **2026-01-31:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
 - **2026-01-31:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
+- **2026-01-31:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
