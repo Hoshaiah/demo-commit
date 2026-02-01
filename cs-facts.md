@@ -907,3 +907,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-01-31:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
 - **2026-02-01:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
 - **2026-02-01:** The halting problem is undecidable: no general algorithm can tell if any program will stop.
+- **2026-02-01:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
