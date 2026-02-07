@@ -929,3 +929,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-02-05:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
 - **2026-02-05:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
 - **2026-02-06:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
+- **2026-02-07:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
