@@ -944,3 +944,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-02-09:** ASCII uses 7 bits (128 values); UTF-8 extends this to all of Unicode while staying ASCII-compatible.
 - **2026-02-10:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
 - **2026-02-11:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
+- **2026-02-11:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
