@@ -950,3 +950,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-02-11:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
 - **2026-02-11:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
 - **2026-02-12:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
+- **2026-02-12:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
