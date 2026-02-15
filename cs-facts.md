@@ -965,3 +965,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-02-14:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
 - **2026-02-15:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
 - **2026-02-15:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
+- **2026-02-15:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
