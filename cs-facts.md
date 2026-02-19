@@ -983,3 +983,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-02-19:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
 - **2026-02-19:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
 - **2026-02-19:** The halting problem is undecidable: no general algorithm can tell if any program will stop.
+- **2026-02-19:** ASCII uses 7 bits (128 values); UTF-8 extends this to all of Unicode while staying ASCII-compatible.
