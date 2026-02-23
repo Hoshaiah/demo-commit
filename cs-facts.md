@@ -1000,3 +1000,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-02-22:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
 - **2026-02-23:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
 - **2026-02-23:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
+- **2026-02-23:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
