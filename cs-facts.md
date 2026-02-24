@@ -1002,3 +1002,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-02-23:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
 - **2026-02-23:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
 - **2026-02-23:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
+- **2026-02-24:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
