@@ -1009,3 +1009,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-02-24:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
 - **2026-02-25:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
 - **2026-02-25:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
+- **2026-02-25:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
