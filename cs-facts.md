@@ -1007,3 +1007,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-02-24:** ASCII uses 7 bits (128 values); UTF-8 extends this to all of Unicode while staying ASCII-compatible.
 - **2026-02-24:** ASCII uses 7 bits (128 values); UTF-8 extends this to all of Unicode while staying ASCII-compatible.
 - **2026-02-24:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
+- **2026-02-25:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
