@@ -1028,3 +1028,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-03-01:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
 - **2026-03-01:** Binary search runs in O(log n) time but requires the input to be sorted first.
 - **2026-03-01:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
+- **2026-03-02:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
