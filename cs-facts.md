@@ -1034,3 +1034,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-03-03:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
 - **2026-03-03:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
 - **2026-03-03:** The halting problem is undecidable: no general algorithm can tell if any program will stop.
+- **2026-03-04:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
