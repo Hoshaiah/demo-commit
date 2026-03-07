@@ -1043,3 +1043,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-03-05:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
 - **2026-03-06:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
 - **2026-03-07:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
+- **2026-03-07:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
