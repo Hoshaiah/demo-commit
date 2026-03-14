@@ -1064,3 +1064,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-03-13:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
 - **2026-03-13:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
 - **2026-03-14:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
+- **2026-03-14:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
