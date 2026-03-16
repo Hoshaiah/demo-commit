@@ -1070,3 +1070,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-03-15:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
 - **2026-03-15:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
 - **2026-03-15:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
+- **2026-03-16:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
