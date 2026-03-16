@@ -1071,3 +1071,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-03-15:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
 - **2026-03-15:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
 - **2026-03-16:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
+- **2026-03-16:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
