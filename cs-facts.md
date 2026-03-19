@@ -1089,3 +1089,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-03-19:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
 - **2026-03-19:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
 - **2026-03-19:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
+- **2026-03-19:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
