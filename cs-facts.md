@@ -1091,3 +1091,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-03-19:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
 - **2026-03-19:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
 - **2026-03-20:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
+- **2026-03-20:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
