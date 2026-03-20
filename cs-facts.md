@@ -1090,3 +1090,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-03-19:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
 - **2026-03-19:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
 - **2026-03-19:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
+- **2026-03-20:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
