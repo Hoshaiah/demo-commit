@@ -1122,3 +1122,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-03-28:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
 - **2026-03-28:** ASCII uses 7 bits (128 values); UTF-8 extends this to all of Unicode while staying ASCII-compatible.
 - **2026-03-28:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
+- **2026-03-28:** Binary search runs in O(log n) time but requires the input to be sorted first.
