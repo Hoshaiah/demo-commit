@@ -1127,3 +1127,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-03-29:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
 - **2026-03-29:** The halting problem is undecidable: no general algorithm can tell if any program will stop.
 - **2026-03-29:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
+- **2026-03-29:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
