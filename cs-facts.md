@@ -1131,3 +1131,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-03-30:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
 - **2026-03-30:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
 - **2026-03-30:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
+- **2026-03-30:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
