@@ -1153,3 +1153,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-04-03:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
 - **2026-04-03:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
 - **2026-04-03:** Binary search runs in O(log n) time but requires the input to be sorted first.
+- **2026-04-03:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
