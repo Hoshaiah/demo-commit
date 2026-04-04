@@ -1161,3 +1161,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-04-04:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
 - **2026-04-04:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
 - **2026-04-04:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
+- **2026-04-04:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
