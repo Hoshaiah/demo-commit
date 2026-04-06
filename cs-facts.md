@@ -1171,3 +1171,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-04-05:** The halting problem is undecidable: no general algorithm can tell if any program will stop.
 - **2026-04-06:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
 - **2026-04-06:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
+- **2026-04-06:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
