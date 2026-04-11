@@ -1190,3 +1190,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-04-09:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
 - **2026-04-10:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
 - **2026-04-11:** The halting problem is undecidable: no general algorithm can tell if any program will stop.
+- **2026-04-11:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
