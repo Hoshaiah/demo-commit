@@ -1212,3 +1212,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-04-17:** The halting problem is undecidable: no general algorithm can tell if any program will stop.
 - **2026-04-17:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
 - **2026-04-17:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
+- **2026-04-17:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
