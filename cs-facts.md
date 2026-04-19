@@ -1220,3 +1220,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-04-18:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
 - **2026-04-18:** Binary search runs in O(log n) time but requires the input to be sorted first.
 - **2026-04-19:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
+- **2026-04-19:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
