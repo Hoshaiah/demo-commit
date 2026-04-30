@@ -1260,3 +1260,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-04-30:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
 - **2026-04-30:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
 - **2026-04-30:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
+- **2026-04-30:** Binary search runs in O(log n) time but requires the input to be sorted first.
