@@ -1295,3 +1295,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-05-09:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
 - **2026-05-09:** Binary search runs in O(log n) time but requires the input to be sorted first.
 - **2026-05-10:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
+- **2026-05-10:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
