@@ -1299,3 +1299,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-05-10:** Binary search runs in O(log n) time but requires the input to be sorted first.
 - **2026-05-10:** ASCII uses 7 bits (128 values); UTF-8 extends this to all of Unicode while staying ASCII-compatible.
 - **2026-05-10:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
+- **2026-05-11:** ASCII uses 7 bits (128 values); UTF-8 extends this to all of Unicode while staying ASCII-compatible.
