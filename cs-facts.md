@@ -1312,3 +1312,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-05-12:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
 - **2026-05-13:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
 - **2026-05-14:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
+- **2026-05-14:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
