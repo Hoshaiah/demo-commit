@@ -1349,3 +1349,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-05-24:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
 - **2026-05-25:** ASCII uses 7 bits (128 values); UTF-8 extends this to all of Unicode while staying ASCII-compatible.
 - **2026-05-25:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
+- **2026-05-25:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
