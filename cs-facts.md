@@ -1352,3 +1352,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-05-25:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
 - **2026-05-25:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
 - **2026-05-26:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
+- **2026-05-26:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
