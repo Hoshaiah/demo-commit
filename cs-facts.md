@@ -1368,3 +1368,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-05-29:** Binary search runs in O(log n) time but requires the input to be sorted first.
 - **2026-05-29:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
 - **2026-05-29:** ASCII uses 7 bits (128 values); UTF-8 extends this to all of Unicode while staying ASCII-compatible.
+- **2026-05-29:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
