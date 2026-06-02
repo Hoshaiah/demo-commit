@@ -1375,3 +1375,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-05-31:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
 - **2026-06-01:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
 - **2026-06-02:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
+- **2026-06-02:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
