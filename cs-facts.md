@@ -1383,3 +1383,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-06-04:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
 - **2026-06-04:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
 - **2026-06-04:** The halting problem is undecidable: no general algorithm can tell if any program will stop.
+- **2026-06-04:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
