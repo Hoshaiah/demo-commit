@@ -1386,3 +1386,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-06-04:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
 - **2026-06-04:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
 - **2026-06-04:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
+- **2026-06-04:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
