@@ -1396,3 +1396,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-06-06:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
 - **2026-06-06:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
 - **2026-06-06:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
+- **2026-06-06:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
