@@ -1398,3 +1398,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-06-06:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
 - **2026-06-06:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
 - **2026-06-06:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
+- **2026-06-06:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
