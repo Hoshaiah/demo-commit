@@ -1402,3 +1402,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-06-06:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
 - **2026-06-07:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
 - **2026-06-07:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
+- **2026-06-07:** ASCII uses 7 bits (128 values); UTF-8 extends this to all of Unicode while staying ASCII-compatible.
