@@ -1423,3 +1423,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-06-11:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
 - **2026-06-11:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
 - **2026-06-11:** Binary search runs in O(log n) time but requires the input to be sorted first.
+- **2026-06-11:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
