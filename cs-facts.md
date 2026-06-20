@@ -1459,3 +1459,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-06-20:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
 - **2026-06-20:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
 - **2026-06-20:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
+- **2026-06-20:** The halting problem is undecidable: no general algorithm can tell if any program will stop.
