@@ -1,0 +1,7 @@
+{
+  "name": "demo-commit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Educational demo: proves git commits and contribution graphs are forgeable.",
+  "type": "module"
+}

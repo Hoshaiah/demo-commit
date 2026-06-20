@@ -1,0 +1,14 @@
+# Secrets — never commit these
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Vercel
+.vercel/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
