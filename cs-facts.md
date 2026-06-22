@@ -1462,3 +1462,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-06-20:** The halting problem is undecidable: no general algorithm can tell if any program will stop.
 - **2026-06-21:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
 - **2026-06-22:** Binary search runs in O(log n) time but requires the input to be sorted first.
+- **2026-06-22:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
