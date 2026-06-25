@@ -1467,3 +1467,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-06-23:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
 - **2026-06-23:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
 - **2026-06-24:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
+- **2026-06-25:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
