@@ -1479,3 +1479,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-06-28:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
 - **2026-06-29:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
 - **2026-06-30:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
+- **2026-07-01:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
