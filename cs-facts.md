@@ -1482,3 +1482,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-07-01:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
 - **2026-07-02:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
 - **2026-07-03:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
+- **2026-07-04:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
