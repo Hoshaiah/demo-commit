@@ -1485,3 +1485,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-07-04:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
 - **2026-07-05:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
 - **2026-07-06:** The halting problem is undecidable: no general algorithm can tell if any program will stop.
+- **2026-07-07:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
