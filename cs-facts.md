@@ -1502,3 +1502,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-07-12:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
 - **2026-07-12:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
 - **2026-07-13:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
+- **2026-07-13:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
