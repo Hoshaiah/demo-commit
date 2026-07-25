@@ -1541,3 +1541,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-07-25:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
 - **2026-07-25:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
 - **2026-07-25:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
+- **2026-07-25:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
