@@ -1542,3 +1542,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-07-25:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
 - **2026-07-25:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
 - **2026-07-25:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
+- **2026-07-26:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
