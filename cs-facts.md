@@ -1557,3 +1557,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-08-03:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
 - **2026-08-04:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
 - **2026-08-04:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
+- **2026-08-05:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
