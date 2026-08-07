@@ -1561,3 +1561,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-08-06:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
 - **2026-08-06:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
 - **2026-08-06:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
+- **2026-08-07:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
