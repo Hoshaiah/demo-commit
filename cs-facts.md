@@ -1575,3 +1575,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-08-10:** ASCII uses 7 bits (128 values); UTF-8 extends this to all of Unicode while staying ASCII-compatible.
 - **2026-08-11:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
 - **2026-08-11:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
+- **2026-08-11:** Binary search runs in O(log n) time but requires the input to be sorted first.
