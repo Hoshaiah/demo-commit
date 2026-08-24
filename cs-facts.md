@@ -1621,3 +1621,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-08-24:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
 - **2026-08-24:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
 - **2026-08-24:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
+- **2026-08-24:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
