@@ -1625,3 +1625,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-08-24:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
 - **2026-08-24:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
 - **2026-08-25:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
+- **2026-08-25:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
