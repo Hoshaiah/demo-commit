@@ -1640,3 +1640,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-08-30:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
 - **2026-08-30:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
 - **2026-08-30:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
+- **2026-08-31:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
