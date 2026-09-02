@@ -1654,3 +1654,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-09-02:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
 - **2026-09-02:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
 - **2026-09-02:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
+- **2026-09-02:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
