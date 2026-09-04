@@ -1660,3 +1660,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-09-03:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
 - **2026-09-03:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
 - **2026-09-04:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
+- **2026-09-04:** The halting problem is undecidable: no general algorithm can tell if any program will stop.
