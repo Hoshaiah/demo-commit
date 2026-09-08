@@ -1678,3 +1678,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-09-07:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
 - **2026-09-07:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
 - **2026-09-07:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
+- **2026-09-08:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
