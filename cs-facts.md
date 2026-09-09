@@ -1683,3 +1683,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-09-08:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
 - **2026-09-09:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
 - **2026-09-09:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
+- **2026-09-09:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
