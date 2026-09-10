@@ -1691,3 +1691,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-09-10:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
 - **2026-09-10:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
 - **2026-09-10:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
+- **2026-09-10:** The halting problem is undecidable: no general algorithm can tell if any program will stop.
