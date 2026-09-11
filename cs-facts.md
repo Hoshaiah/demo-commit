@@ -1693,3 +1693,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-09-10:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
 - **2026-09-10:** The halting problem is undecidable: no general algorithm can tell if any program will stop.
 - **2026-09-11:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
+- **2026-09-11:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
