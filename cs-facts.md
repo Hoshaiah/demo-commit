@@ -1696,3 +1696,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-09-11:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
 - **2026-09-11:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
 - **2026-09-12:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
+- **2026-09-12:** The halting problem is undecidable: no general algorithm can tell if any program will stop.
