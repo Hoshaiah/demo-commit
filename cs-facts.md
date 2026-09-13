@@ -1703,3 +1703,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-09-13:** Binary search runs in O(log n) time but requires the input to be sorted first.
 - **2026-09-13:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
 - **2026-09-13:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
+- **2026-09-13:** ASCII uses 7 bits (128 values); UTF-8 extends this to all of Unicode while staying ASCII-compatible.
