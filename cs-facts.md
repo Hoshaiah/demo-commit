@@ -1708,3 +1708,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-09-13:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
 - **2026-09-14:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
 - **2026-09-14:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
+- **2026-09-14:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
