@@ -1746,3 +1746,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-09-23:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
 - **2026-09-23:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
 - **2026-09-23:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
+- **2026-09-23:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
