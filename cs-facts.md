@@ -1750,3 +1750,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-09-23:** The halting problem is undecidable: no general algorithm can tell if any program will stop.
 - **2026-09-24:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
 - **2026-09-24:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
+- **2026-09-24:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
