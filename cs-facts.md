@@ -1759,3 +1759,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-09-26:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
 - **2026-09-26:** Binary search runs in O(log n) time but requires the input to be sorted first.
 - **2026-09-26:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
+- **2026-09-26:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
