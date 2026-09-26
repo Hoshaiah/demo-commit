@@ -1756,3 +1756,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-09-25:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
 - **2026-09-25:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
 - **2026-09-25:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
+- **2026-09-26:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
