@@ -1767,3 +1767,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-09-27:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
 - **2026-09-27:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
 - **2026-09-27:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
+- **2026-09-27:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
