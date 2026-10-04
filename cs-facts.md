@@ -1795,3 +1795,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-10-03:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
 - **2026-10-04:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
 - **2026-10-04:** The halting problem is undecidable: no general algorithm can tell if any program will stop.
+- **2026-10-04:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
