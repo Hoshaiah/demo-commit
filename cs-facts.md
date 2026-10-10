@@ -1818,3 +1818,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-10-10:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
 - **2026-10-10:** The halting problem is undecidable: no general algorithm can tell if any program will stop.
 - **2026-10-10:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
+- **2026-10-10:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
