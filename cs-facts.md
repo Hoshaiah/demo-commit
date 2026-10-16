@@ -1840,3 +1840,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-10-15:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
 - **2026-10-15:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
 - **2026-10-16:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
+- **2026-10-16:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
