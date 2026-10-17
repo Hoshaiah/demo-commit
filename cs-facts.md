@@ -1846,3 +1846,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-10-17:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
 - **2026-10-17:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
 - **2026-10-17:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
+- **2026-10-17:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
