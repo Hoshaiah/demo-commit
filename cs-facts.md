@@ -1857,3 +1857,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-10-21:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
 - **2026-10-21:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
 - **2026-10-21:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
+- **2026-10-21:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
