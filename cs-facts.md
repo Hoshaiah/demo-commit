@@ -1864,3 +1864,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-10-22:** The term 'bug' predates computers; Grace Hopper famously taped a real moth into a 1947 logbook.
 - **2026-10-22:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
 - **2026-10-23:** Binary search runs in O(log n) time but requires the input to be sorted first.
+- **2026-10-23:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
