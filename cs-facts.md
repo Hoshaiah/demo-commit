@@ -1871,3 +1871,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-10-23:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
 - **2026-10-23:** Binary search runs in O(log n) time but requires the input to be sorted first.
 - **2026-10-24:** Binary search runs in O(log n) time but requires the input to be sorted first.
+- **2026-10-24:** A balanced binary tree keeps height ~log n, which is what keeps its operations fast.
