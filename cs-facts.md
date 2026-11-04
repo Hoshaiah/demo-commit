@@ -1910,3 +1910,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-11-02:** ASCII uses 7 bits (128 values); UTF-8 extends this to all of Unicode while staying ASCII-compatible.
 - **2026-11-03:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
 - **2026-11-03:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
+- **2026-11-04:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
