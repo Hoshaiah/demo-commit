@@ -1927,3 +1927,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-11-07:** Binary search runs in O(log n) time but requires the input to be sorted first.
 - **2026-11-07:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
 - **2026-11-07:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
+- **2026-11-08:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
