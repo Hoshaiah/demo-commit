@@ -1952,3 +1952,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-11-11:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
 - **2026-11-12:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
 - **2026-11-12:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
+- **2026-11-12:** Binary search runs in O(log n) time but requires the input to be sorted first.
