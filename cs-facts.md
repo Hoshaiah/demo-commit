@@ -1954,3 +1954,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-11-12:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
 - **2026-11-12:** Binary search runs in O(log n) time but requires the input to be sorted first.
 - **2026-11-12:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
+- **2026-11-12:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
