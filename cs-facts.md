@@ -1968,3 +1968,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-11-15:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
 - **2026-11-16:** Binary search runs in O(log n) time but requires the input to be sorted first.
 - **2026-11-16:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
+- **2026-11-16:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
