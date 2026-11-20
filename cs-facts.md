@@ -1984,3 +1984,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-11-19:** Big-O describes growth, not speed: an O(n) algorithm can beat an O(log n) one for small n.
 - **2026-11-19:** TCP guarantees ordered, reliable delivery; UDP trades those guarantees for lower latency.
 - **2026-11-20:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
+- **2026-11-20:** Binary search runs in O(log n) time but requires the input to be sorted first.
