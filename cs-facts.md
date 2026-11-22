@@ -1988,3 +1988,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-11-20:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
 - **2026-11-21:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
 - **2026-11-22:** There are exactly 1024 bytes in a kibibyte (KiB), but 1000 in a kilobyte (kB).
+- **2026-11-22:** A SHA-256 hash is 256 bits — 64 hexadecimal characters — regardless of input size.
