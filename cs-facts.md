@@ -2001,3 +2001,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-11-24:** Caches exploit locality of reference — recently/nearby-accessed data is likely to be used again.
 - **2026-11-24:** Quicksort averages O(n log n) but degrades to O(n^2) on already-sorted input with naive pivots.
 - **2026-11-24:** The halting problem is undecidable: no general algorithm can tell if any program will stop.
+- **2026-11-24:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
