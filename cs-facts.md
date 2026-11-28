@@ -2013,3 +2013,4 @@ _Every entry below was appended by a backdated commit for a demonstration._
 - **2026-11-27:** Floating-point can't represent 0.1 exactly, which is why 0.1 + 0.2 != 0.3 in most languages.
 - **2026-11-27:** Git stores snapshots, not diffs; identical file contents are stored only once via content hashing.
 - **2026-11-28:** A hash table gives average O(1) lookup, but worst-case O(n) when every key collides.
+- **2026-11-28:** Deadlock needs four conditions at once: mutual exclusion, hold-and-wait, no preemption, circular wait.
